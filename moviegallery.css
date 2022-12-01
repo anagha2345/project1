@@ -1,0 +1,57 @@
+body{
+    background-image: url("image/background/2.gif");
+    background-size: cover;
+}
+
+.col{
+    width: 300px;
+    height: 600px;
+    border: 7px rgb(52, 59, 4) solid;
+    color: aliceblue;
+    position: absolute;
+    left: 80px;
+   
+
+}
+
+.col1{
+    left: 440px;
+  
+   
+}
+h1{
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;
+}
+div img{
+    width: 300px;
+    height:300px;
+}
+.col2{
+    left: 800px;
+}
+.col3{
+    left: 1160px;
+}
+h2{
+    text-align: center;
+}
+#r{text-align: center;
+    border: 2px rgb(51, 51, 9) solid;
+    margin-top: 97px;
+   
+}
+#r1{
+    text-align: center;
+    border: 2px rgb(51, 51, 9) solid;
+    margin-top: 116px;
+}
+#r3{
+    text-align: center;
+    border: 2px rgb(51, 51, 9) solid;
+    margin-top: 42px;
+}
+#p1{
+    padding: 5px;
+}
+
