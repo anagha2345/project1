@@ -1,5 +1,5 @@
 body{
-    background-image: url("image/background/2.gif");
+    background-image: url("./image/2.gif");
     background-size: cover;
 }
 
@@ -38,18 +38,18 @@ h2{
 }
 #r{text-align: center;
     border: 2px rgb(51, 51, 9) solid;
-    margin-top: 97px;
+    margin-top: 92px;
    
 }
 #r1{
     text-align: center;
     border: 2px rgb(51, 51, 9) solid;
-    margin-top: 116px;
+    margin-top: 87px;
 }
 #r3{
     text-align: center;
     border: 2px rgb(51, 51, 9) solid;
-    margin-top: 42px;
+    margin-top: 14px;
 }
 #p1{
     padding: 5px;
